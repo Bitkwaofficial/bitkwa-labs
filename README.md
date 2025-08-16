@@ -82,7 +82,7 @@ This project is licensed under the [MIT License](LICENSE.md).
   <a href="https://twitter.com/bitkwaofficial">
     <img src="https://img.shields.io/badge/🐦%20Twitter-@bitkwaofficial-blue?style=for-the-badge"/>
   </a>
-  <a href="mailto:contact@bitkwa.org">
-    <img src="https://img.shields.io/badge/✉️%20Email-contact@bitkwa.org-lightgrey?style=for-the-badge"/>
+  <a href="mailto:info@bitkwa.org">
+    <img src="https://img.shields.io/badge/✉️%20Email-info@bitkwa.org-lightgrey?style=for-the-badge"/>
   </a>
 </p>
